@@ -52,3 +52,4 @@ run:
 
 clean:
 	$(RM) -r *.o $(ODIR) *~ test.app $(LDIR)/*.o $(OSDIR)/*.o
+
